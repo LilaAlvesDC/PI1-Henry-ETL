@@ -14,6 +14,10 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 - *re* - Para gestión de las expresiones regulares
 - *mysql.connector *- Para conectar y gestionar base de datos en mySQL
 
+[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
+
+### Archivos Originales
+
 [![Archivos](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/1%20Archivos.JPG "Archivos")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/1%20Archivos.JPG "Archivos")
 
 
@@ -34,3 +38,4 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 - [Chybeat](https://github.com/chybeat)
 - [root@spyro:~#](https://github.com/rootspyro)
 - [milord](https://github.com/milord)
+- [Antonio Orozco](https://github.com/aorozco-caemsa)
