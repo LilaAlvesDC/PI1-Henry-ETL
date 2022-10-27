@@ -27,5 +27,9 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 
 4. Finalmente podrás seguir todo el flujo de trabajo hasta la exportación de los datasets limpios.
 
-**Nota:** Para realizar el último paso donde cargas los datos en el DataLake mediante los archivos SQL deberás descargar los archivos ubicados en: , luego ejecutarlos en tu wonbench de preferencia y finalmente tendrás creada una base de datos con los datasets enviados.
+**Nota:** Para realizar el último paso donde cargas los datos en el DataLake mediante los archivos SQL deberás descargar los archivos ubicados en: , luego ejecutarlos en tu workbench de preferencia y finalmente tendrás creada una base de datos con los datasets enviados.
 
+### Colaboradores
+
+- [root@spyro:~#](https://github.com/rootspyro)
+- [milord](https://github.com/milord)
