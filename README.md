@@ -2,7 +2,11 @@
 
 El trabajo consiste en procesar varios dataset de diversos formatos, transformar los datos para extraer dato valioso y finalmente generar un archivo de SQL para su posterior carga en cualquier DataLake en un workflow. 
 
-Podes acceder a la consigna completa en el siguiente: [Link](https://github.com/soyHenry/PI01_DATA_ENGINEERING "Link")
+Podes acceder a la consigna completa en el siguiente: [link](https://github.com/soyHenry/PI01_DATA_ENGINEERING "Link")
+
+El workflow de ETL consiste en tres etapas: Extracción, Tranformación y Carga como sigue en la siguiente imagen. 
+
+[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
 
 ## Tecnologías 
 
@@ -13,8 +17,6 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 - *Chardet* - Para identificar el encoding de los archivos 
 - *re* - Para gestión de las expresiones regulares
 - *mysql.connector* - Para conectar y gestionar base de datos en mySQL
-
-[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
 
 ### Archivos Originales
 
@@ -35,11 +37,5 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 
 Finalmente creamos una base de datos con el siguiente Diagrama ER: 
 
+[![Diagrama ER](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/4.%20Diagrame%20ER.jpeg "Diagrama ER")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/4.%20Diagrame%20ER.jpeg "Diagrama ER")
 
-
-### Colaboradores
-
-- [Chybeat](https://github.com/chybeat)
-- [root@spyro:~#](https://github.com/rootspyro)
-- [milord](https://github.com/milord)
-- [Antonio Orozco](https://github.com/aorozco-caemsa)
