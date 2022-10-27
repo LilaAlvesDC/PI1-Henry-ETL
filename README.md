@@ -31,5 +31,6 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 
 ### Colaboradores
 
+- [Chybeat](https://github.com/chybeat)
 - [root@spyro:~#](https://github.com/rootspyro)
 - [milord](https://github.com/milord)
