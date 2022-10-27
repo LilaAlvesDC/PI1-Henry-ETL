@@ -9,7 +9,7 @@ Podes acceder a la consigna completa en el siguiente: [link](https://github.com/
 
 El workflow de ETL consiste en tres etapas: Extracción, Tranformación y Carga como sigue en la siguiente imagen. 
 
-[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL" width="80%")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
+[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL" )](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
 
 ## Tecnologías 
 
