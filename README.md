@@ -41,3 +41,5 @@ Finalmente creamos una base de datos con el siguiente Diagrama ER:
 
 [![Diagrama ER](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/4.%20Diagrame%20ER.jpeg "Diagrama ER")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/4.%20Diagrame%20ER.jpeg "Diagrama ER")
 
+¡Gracias a quienes hicieron posible este proyecto! 
+
