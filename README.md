@@ -12,7 +12,7 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 - *Pathlib* - Para gestión de path 
 - *Chardet* - Para identificar el encoding de los archivos 
 - *re* - Para gestión de las expresiones regulares
-- *mysql.connector *- Para conectar y gestionar base de datos en mySQL
+- *mysql.connector* - Para conectar y gestionar base de datos en mySQL
 
 [![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
 
@@ -23,9 +23,9 @@ Para la elaboración de este workflow se utilizó principalmente **Python** con 
 
 # ¿Cómo correr el script en línea usando solo Google Colab? 
 
-1. Para correr el script en línea primero deberás crear un acceso directo a los datasets usando google drive. Para hacerlo acceder al siguiente [Link](http://drive.google.com/drive/folders/1Rsq-HHomPtQwy7RIWQ574wKcf56LiGq1 "Link") 
+1. Para correr el script en línea primero deberás crear un acceso directo a los datasets usando google drive. Para hacerlo acceder al siguiente [link](http://drive.google.com/drive/folders/1Rsq-HHomPtQwy7RIWQ574wKcf56LiGq1 "link") 
 
-2. Luego podes acceder al siguiente [Notebook](https://colab.research.google.com/drive/17YMz4FL8vhD23dS5F3eX6cSC6mUJIgMC?usp=sharing "Notebook") en línea.
+2. Luego podes acceder al siguiente [notebook](https://colab.research.google.com/drive/17YMz4FL8vhD23dS5F3eX6cSC6mUJIgMC?usp=sharing "notebook") en línea.
 
 3. En la celda #2 deberás conceder permisos para que tu cuenta de google drive pueda tener acceso a los datasets enviados. 
 
