@@ -1,12 +1,15 @@
 # TRABAJO INDIVIDUAL DE ETL 
 
+
+[<img src="https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/5.%20ETL.png">](https://www.youtube.com/embed/oMUfQsOVToI "ETL: 55")
+
 El trabajo consiste en procesar varios dataset de diversos formatos, transformar los datos para extraer dato valioso y finalmente generar un archivo de SQL para su posterior carga en cualquier DataLake en un workflow. 
 
 Podes acceder a la consigna completa en el siguiente: [link](https://github.com/soyHenry/PI01_DATA_ENGINEERING "Link")
 
 El workflow de ETL consiste en tres etapas: Extracción, Tranformación y Carga como sigue en la siguiente imagen. 
 
-[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
+[![Proceso de ETL](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL" width="80%")](https://github.com/LilaAlvesDC/workflow_ETL/blob/main/_str/3.%20Workflow.jpg "Proceso de ETL")
 
 ## Tecnologías 
 
